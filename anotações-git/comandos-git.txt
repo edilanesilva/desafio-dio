@@ -1,0 +1,19 @@
+comandos git simples
+
+-cloanando repositorio via url
+*git clone https://github.com/....
+
+-enviando pasta para o git local
+git add (.)ou (-A)
+
+git status //para confirmar.
+
+enviando para o github
+git commit -m "inclusao das anotações" //git status novamente para verificar
+
+enviando para a nuvem
+git push origin main
+
+fim
+
+
