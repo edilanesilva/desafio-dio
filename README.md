@@ -1,2 +1,2 @@
 # Meus Projetos /Fullstack Básico 
-Repositorio criado para o desafio de projeto
+Repositorio criado para projetos
